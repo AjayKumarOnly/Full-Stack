@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1 class="heading">Student Management System</h1>
+<hr>
+
+<h2>Add Student Details :</h2>
+
+<form id="studentForm">
+    <label>Name :</label>
+    <input type="text" id="name"><br><br>
+
+    <label>Roll No :</label>
+    <input type="number" id="roll"><br><br>
+
+    <label>Email :</label>
+    <input type="text" id="email"><br><br>
+
+    <label>Number :</label>
+    <input type="number" id="number"><br><br>
+
+    <button type="submit" class="addbtn">Add Student</button>
+</form>
+
+<br>
+<button onclick="getStudent()" class="getbtn">Get Student Details</button><br>
+<br>
+    <label>Enter the id for Deletion (index - 0 )  :</label>
+    <input type="number" id="del"><br>
+    <br>
+<button onclick="deleteStudent()" class="delbtn">Delete Student </button>
+<hr>
+<h3>Update Student Number</h3>
+
+<label>Enter Student Index :</label>
+<input type="number" id="updateIndex"><br><br>
+
+<label>New Phone Number :</label>
+<input type="number" id="updateNumber"><br><br>
+
+<button onclick="updateStudent()" class="updbtn">Update Student</button>
+
+<hr>
+
+<div id="studentList"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
