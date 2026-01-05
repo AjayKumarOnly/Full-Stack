@@ -1,0 +1,158 @@
+{
+  "hotels": [
+    {
+      "hotelId": "H1001",
+      "name": "Sunrise Grand Hotel",
+      "location": {
+        "address": "123 Beach Road",
+        "city": "Miami",
+        "country": "USA"
+      },
+      "contact": {
+        "phone": "+1-555-123-4567",
+        "email": "info@sunrisegrand.com"
+      },
+      "rating": 4.5
+    },
+    {
+      "hotelId": "H1002",
+      "name": "Ocean View Resort",
+      "location": {
+        "address": "45 Ocean Drive",
+        "city": "Los Angeles",
+        "country": "USA"
+      },
+      "contact": {
+        "phone": "+1-555-234-5678",
+        "email": "contact@oceanview.com"
+      },
+      "rating": 4.2
+    },
+    {
+      "hotelId": "H1003",
+      "name": "Mountain Stay Inn",
+      "location": {
+        "address": "78 Hill Road",
+        "city": "Denver",
+        "country": "USA"
+      },
+      "contact": {
+        "phone": "+1-555-345-6789",
+        "email": "support@mountainstay.com"
+      },
+      "rating": 4.0
+    },
+    {
+      "hotelId": "H1004",
+      "name": "Royal Palace Hotel",
+      "location": {
+        "address": "12 King Street",
+        "city": "London",
+        "country": "UK"
+      },
+      "contact": {
+        "phone": "+44-555-456-7890",
+        "email": "info@royalpalace.co.uk"
+      },
+      "rating": 4.7
+    },
+    {
+      "hotelId": "H1005",
+      "name": "City Lights Hotel",
+      "location": {
+        "address": "88 Downtown Ave",
+        "city": "New York",
+        "country": "USA"
+      },
+      "contact": {
+        "phone": "+1-555-567-8901",
+        "email": "hello@citylights.com"
+      },
+      "rating": 4.3
+    },
+    {
+      "hotelId": "H1006",
+      "name": "Desert Oasis Resort",
+      "location": {
+        "address": "7 Palm Road",
+        "city": "Dubai",
+        "country": "UAE"
+      },
+      "contact": {
+        "phone": "+971-555-678-9012",
+        "email": "contact@desertoasis.ae"
+      },
+      "rating": 4.8
+    },
+    {
+      "hotelId": "H1007",
+      "name": "Lakeview Comfort Inn",
+      "location": {
+        "address": "56 Lake Road",
+        "city": "Zurich",
+        "country": "Switzerland"
+      },
+      "contact": {
+        "phone": "+41-555-789-0123",
+        "email": "info@lakeview.ch"
+      },
+      "rating": 4.4
+    },
+    {
+      "hotelId": "H1008",
+      "name": "Green Valley Lodge",
+      "location": {
+        "address": "90 Forest Lane",
+        "city": "Vancouver",
+        "country": "Canada"
+      },
+      "contact": {
+        "phone": "+1-555-890-1234",
+        "email": "support@greenvalley.ca"
+      },
+      "rating": 4.1
+    },
+    {
+      "hotelId": "H1009",
+      "name": "Golden Sands Resort",
+      "location": {
+        "address": "21 Shoreline Blvd",
+        "city": "Goa",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91-555-901-2345",
+        "email": "info@goldensands.in"
+      },
+      "rating": 4.6
+    },
+    {
+      "hotelId": "H1010",
+      "name": "Skyline Business Hotel",
+      "location": {
+        "address": "300 Corporate Park",
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "contact": {
+        "phone": "+65-555-012-3456",
+        "email": "business@skyline.sg"
+      },
+      "rating": 4.4
+    },
+    {
+      "hotelId": "H1011",
+      "name": "Heritage Comfort Stay",
+      "location": {
+        "address": "15 Old Town Road",
+        "city": "Jaipur",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91-555-123-7890",
+        "email": "contact@heritagestay.in"
+      },
+      "rating": 4.2
+    }
+  ]
+}

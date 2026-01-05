@@ -1,0 +1,32 @@
+.title{
+    text-align: center;
+}
+body {
+    text-align: center;
+    margin: 20px;
+}
+.homeNav{
+    text-align: center;
+    margin: 20px;
+    padding: 20px; 
+}
+.viewCss {
+    border-collapse: collapse; 
+    margin: 20px auto;        
+    width: 80%;              
+}
+
+.viewCss th, .viewCss td {
+    border: 1px solid #333;   
+    padding: 8px;            
+    text-align: center;
+}
+
+.viewCss th {
+    background-color: #3498db; 
+    color: white;
+}
+
+.viewCss tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
