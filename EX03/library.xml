@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+
+    <book>
+        <id>101</id>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <category>Programming</category>
+        <price>$450</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>102</id>
+        <title>Introduction to Algorithms</title>
+        <author>Thomas H. Cormen</author>
+        <category>Computer Science</category>
+        <price>850</price>
+        <status>Issued</status>
+    </book>
+
+    <book>
+        <id>103</id>
+        <title>Design Patterns</title>
+        <author>Erich Gamma</author>
+        <category>Software Engineering</category>
+        <price>650</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>104</id>
+        <title>Operating System Concepts</title>
+        <author>Silberschatz</author>
+        <category>Operating Systems</category>
+        <price>720</price>
+        <status>Issued</status>
+    </book>
+
+    <book>
+        <id>105</id>
+        <title>Computer Networks</title>
+        <author>Andrew S. Tanenbaum</author>
+        <category>Networking</category>
+        <price>680</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>106</id>
+        <title>Database System Concepts</title>
+        <author>Abraham Silberschatz</author>
+        <category>Database</category>
+        <price>700</price>
+        <status>Issued</status>
+    </book>
+
+    <book>
+        <id>107</id>
+        <title>Java: The Complete Reference</title>
+        <author>Herbert Schildt</author>
+        <category>Programming</category>
+        <price>550</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>108</id>
+        <title>Python Crash Course</title>
+        <author>Eric Matthes</author>
+        <category>Programming</category>
+        <price>480</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>109</id>
+        <title>Artificial Intelligence</title>
+        <author>Stuart Russell</author>
+        <category>AI</category>
+        <price>900</price>
+        <status>Issued</status>
+    </book>
+
+    <book>
+        <id>110</id>
+        <title>Machine Learning</title>
+        <author>Tom Mitchell</author>
+        <category>AI</category>
+        <price>820</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>111</id>
+        <title>Web Technologies</title>
+        <author>Ullman</author>
+        <category>Web Development</category>
+        <price>400</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>112</id>
+        <title>Software Testing</title>
+        <author>Ron Patton</author>
+        <category>Software Engineering</category>
+        <price>460</price>
+        <status>Issued</status>
+    </book>
+
+    <book>
+        <id>113</id>
+        <title>Cloud Computing</title>
+        <author>Rajkumar Buyya</author>
+        <category>Cloud</category>
+        <price>780</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>114</id>
+        <title>Cyber Security Essentials</title>
+        <author>Charles J. Brooks</author>
+        <category>Security</category>
+        <price>620</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>115</id>
+        <title>Data Science Handbook</title>
+        <author>Jake VanderPlas</author>
+        <category>Data Science</category>
+        <price>860</price>
+        <status>Issued</status>
+    </book>
+
+</library>
