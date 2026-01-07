@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Books</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<style>
+    body{
+        background-color: rgb(172, 189, 126);
+    }
+</style>
+<body>
+    <h1 class="title">Library Management System</h1>
+<hr>
+   <form method="post" action="add.html" class="form">
+    <h2>Add Book</h2>
+
+    <label for="id">ID:</label><br>
+    <input type="text" id="id"><br><br>
+
+    <label for="title">Title:</label><br>
+    <input type="text" name="title" id="title"><br><br>
+
+    <label for="author">Author:</label><br>
+    <input type="text" name="author" id="author"><br><br>
+
+    <label for="category">Category:</label><br>
+    <input type="text" name="category" id="category"><br><br>
+
+    <label for="price">Price:</label><br>
+    <input type="number" name="price" id="price"><br><br>
+
+    <label for="status">Status:</label><br>
+    <input type="text" name="status" id="status"><br><br>
+
+    <input type="submit" value="Add" onclick="add()">
+</form>
+<script src="script.js"></script>
+
+<hr>
+</body>
+</html>

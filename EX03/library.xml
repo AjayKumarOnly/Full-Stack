@@ -15,7 +15,7 @@
         <title>Introduction to Algorithms</title>
         <author>Thomas H. Cormen</author>
         <category>Computer Science</category>
-        <price>850</price>
+        <price>$850</price>
         <status>Issued</status>
     </book>
 
@@ -24,7 +24,7 @@
         <title>Design Patterns</title>
         <author>Erich Gamma</author>
         <category>Software Engineering</category>
-        <price>650</price>
+        <price>$650</price>
         <status>Available</status>
     </book>
 
@@ -33,7 +33,7 @@
         <title>Operating System Concepts</title>
         <author>Silberschatz</author>
         <category>Operating Systems</category>
-        <price>720</price>
+        <price>$720</price>
         <status>Issued</status>
     </book>
 
@@ -42,7 +42,7 @@
         <title>Computer Networks</title>
         <author>Andrew S. Tanenbaum</author>
         <category>Networking</category>
-        <price>680</price>
+        <price>$680</price>
         <status>Available</status>
     </book>
 
@@ -51,7 +51,7 @@
         <title>Database System Concepts</title>
         <author>Abraham Silberschatz</author>
         <category>Database</category>
-        <price>700</price>
+        <price>$700</price>
         <status>Issued</status>
     </book>
 
@@ -60,7 +60,7 @@
         <title>Java: The Complete Reference</title>
         <author>Herbert Schildt</author>
         <category>Programming</category>
-        <price>550</price>
+        <price>$550</price>
         <status>Available</status>
     </book>
 
@@ -69,7 +69,7 @@
         <title>Python Crash Course</title>
         <author>Eric Matthes</author>
         <category>Programming</category>
-        <price>480</price>
+        <price>$480</price>
         <status>Available</status>
     </book>
 
@@ -78,7 +78,7 @@
         <title>Artificial Intelligence</title>
         <author>Stuart Russell</author>
         <category>AI</category>
-        <price>900</price>
+        <price>$900</price>
         <status>Issued</status>
     </book>
 
@@ -87,7 +87,7 @@
         <title>Machine Learning</title>
         <author>Tom Mitchell</author>
         <category>AI</category>
-        <price>820</price>
+        <price>$820</price>
         <status>Available</status>
     </book>
 
@@ -96,7 +96,7 @@
         <title>Web Technologies</title>
         <author>Ullman</author>
         <category>Web Development</category>
-        <price>400</price>
+        <price>$400</price>
         <status>Available</status>
     </book>
 
@@ -105,7 +105,7 @@
         <title>Software Testing</title>
         <author>Ron Patton</author>
         <category>Software Engineering</category>
-        <price>460</price>
+        <price>$460</price>
         <status>Issued</status>
     </book>
 
@@ -114,7 +114,7 @@
         <title>Cloud Computing</title>
         <author>Rajkumar Buyya</author>
         <category>Cloud</category>
-        <price>780</price>
+        <price>$780</price>
         <status>Available</status>
     </book>
 
@@ -123,7 +123,7 @@
         <title>Cyber Security Essentials</title>
         <author>Charles J. Brooks</author>
         <category>Security</category>
-        <price>620</price>
+        <price>$620</price>
         <status>Available</status>
     </book>
 
@@ -132,7 +132,7 @@
         <title>Data Science Handbook</title>
         <author>Jake VanderPlas</author>
         <category>Data Science</category>
-        <price>860</price>
+        <price>$860</price>
         <status>Issued</status>
     </book>
 

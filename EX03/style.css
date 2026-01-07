@@ -1,0 +1,100 @@
+
+.title {
+    text-align: center;
+    color: darkblue;
+    margin-bottom: 20px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 20px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+}
+
+a:hover {
+    background-color: yellow;
+    font-size: 18px;
+}
+
+
+.tbl {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+
+.tbl thead th {
+    background-color: black;
+    color: gold;
+    padding: 12px;
+    text-align: center;
+}
+
+
+.tbl tbody td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+
+.tbl tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.tbl tbody tr:hover {
+    background-color: #ffe680;
+    cursor: pointer;
+}
+
+.form {
+    max-width: 500px;           
+    margin: 30px auto;            
+    background-color: #f2f2f2;    
+    color: blueviolet;
+    padding: 30px;
+    border-radius: 10px;          
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
+    font-family: Arial, sans-serif;
+}
+.form input[type="text"],
+.form input[type="number"],
+.form input[type="submit"] {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.form input[type="submit"]:hover{
+    background-color: blue;
+    color: white;
+}
+footer{
+    background-color: black;
+    color: gold;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+
+}
+footer .footer-content p {
+    margin: 5px 0;  
+}
+
+footer:hover {
+    background-color: #333;
+    color: #fff;
+    transition: 0.3s;
+}
