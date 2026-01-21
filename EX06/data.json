@@ -1,0 +1,74 @@
+{
+  "hotels": [
+    {
+      "hotelId": "H1001",
+      "name": "Sunrise Grand Hotel",
+      "location": {
+        "address": "123 Beach Road",
+        "city": "Miami",
+        "country": "USA"
+      },
+      "contact": {
+        "phone": "+1-555-123-4567",
+        "email": "info@sunrisegrand.com"
+      },
+      "rating": 4.5
+    },
+    {
+      "hotelId": "H1002",
+      "name": "Ocean View Resort",
+      "location": {
+        "address": "45 Ocean Drive",
+        "city": "Los Angeles",
+        "country": "USA"
+      },
+      "contact": {
+        "phone": "+1-555-234-5678",
+        "email": "contact@oceanview.com"
+      },
+      "rating": 4.2
+    },
+    {
+      "hotelId": "H1003",
+      "name": "Mountain Stay Inn",
+      "location": {
+        "address": "78 Hill Road",
+        "city": "Denver",
+        "country": "USA"
+      },
+      "contact": {
+        "phone": "+1-555-345-6789",
+        "email": "support@mountainstay.com"
+      },
+      "rating": 4.0
+    },
+    {
+      "hotelId": "H1004",
+      "name": "Royal Palace Hotel",
+      "location": {
+        "address": "12 King Street",
+        "city": "London",
+        "country": "UK"
+      },
+      "contact": {
+        "phone": "+44-555-456-7890",
+        "email": "info@royalpalace.co.uk"
+      },
+      "rating": 4.7
+    },
+    {
+      "hotelId": "H1005",
+      "name": "City Lights Hotel",
+      "location": {
+        "address": "88 Downtown Ave",
+        "city": "New York",
+        "country": "USA"
+      },
+      "contact": {
+        "phone": "+1-555-567-8901",
+        "email": "hello@citylights.com"
+      },
+      "rating": 4.3
+    }
+  ]
+}
